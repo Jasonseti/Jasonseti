@@ -7,7 +7,7 @@ I'm currently on my undergraduate studies at Petra Christian University. I major
 I love to try and make many different Deep Learning Models from Classification Models, Object Detection, Transformers, Generative AI, NLP, and more.
 I am currently making a Generative AI using GAN to generate cloud images based on conditions.
 
-My hobbies includes modelling with Blender, creating music, drawing anime, and reading books, especially about the ancient China.
+My hobbies includes modelling with Blender, creating music, drawing anime, and reading books, especially about ancient China.
 In the future, I plan to integrate all of my knowledge to make my own Animated Movies.
 
 <!--
