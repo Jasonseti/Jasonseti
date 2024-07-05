@@ -3,6 +3,13 @@
 I'm an IT undergraduate that loves Animation, 3DGraphics, and Artificial Intelligence. 
 Love to read books about history and earth science.
 
+I'm currently on my undergraduate studies at Petra Christian University. I majored in Computer Science and focused on Deep Learing. 
+I love to try and make many different Deep Learning Models from Classification Models, Object Detection, Transformers, Generative AI, NLP, and more.
+I am currently making a Generative AI using GAN to generate cloud images based on conditions.
+
+My hobbies includes modelling with Blender, creating music, drawing anime, and reading books, especially about the ancient China.
+In the future, I plan to integrate all of my knowledge to make my own Animated Movies.
+
 <!--
 **Jasonseti/Jasonseti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
