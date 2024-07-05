@@ -3,11 +3,11 @@
 I'm an IT undergraduate that loves Animation, 3DGraphics, and Artificial Intelligence. 
 Love to read books about history and earth science.
 
-I'm currently on my undergraduate studies at Petra Christian University. I majored in Computer Science and focused on Deep Learing. 
-I love to try and make many different Deep Learning Models from Classification Models, Object Detection, Transformers, Generative AI, NLP, and Style Transfers.
+I'm currently on my undergraduate studies at Petra Christian University. I majored in Computer Science and focused on Deep Learing.  
+I love to try and make many different Deep Learning Models from Classification Models, Object Detection, Transformers, Generative AI, NLP, and Style Transfers.  
 I am currently making a Generative AI using GAN to generate cloud images based on prompt conditions.
 
-My hobbies includes modelling with Blender, creating music, drawing anime, and reading books, especially about ancient China.
+My hobbies includes modelling with Blender, creating music, drawing anime, and reading books, especially about ancient China.  
 In the future, I plan to integrate all of my knowledge to make my own Animated Movies.
 
 <!--
