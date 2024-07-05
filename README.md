@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Jason
 
-##I'm an IT undergraduate that loves Animation, 3DGraphics, and Artificial Intelligence. 
-##Love to read books about history and earth science.
+I'm an IT undergraduate that loves Animation, 3DGraphics, and Artificial Intelligence. 
+Love to read books about history and earth science.
 
 <!--
 **Jasonseti/Jasonseti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
